@@ -1,0 +1,16 @@
+# Ignore Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore virtual environment
+.venv/
+
+# Ignore Windows / Mac OS junk
+*.lnk
+Thumbs.db
+.DS_Store
+
+# Ignore audio and midi cache
+*.wav
+*.mp3
+*.mid
+*.sf2
