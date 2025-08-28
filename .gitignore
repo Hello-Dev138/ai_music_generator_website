@@ -14,3 +14,10 @@ Thumbs.db
 *.mp3
 *.mid
 *.sf2
+
+# Keep select files
+!Demo_generated_songs/
+!Demo_generated_songs/*.mid
+
+!files/
+!files/**/*.mid
