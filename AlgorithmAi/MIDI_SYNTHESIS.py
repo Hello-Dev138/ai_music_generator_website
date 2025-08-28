@@ -36,11 +36,7 @@ class MidiSynthesizer:
         print("FluidSynth completed successfully.")
 
     def play(self, wav_file):
-        """
-        Play a WAV file using the playsound library.
-
-        wav_file: Path to the WAV file to be played
-        """
+        """Play a WAV file using the playsound library."""
         
         pygame.init()
         pygame.mixer.init()
